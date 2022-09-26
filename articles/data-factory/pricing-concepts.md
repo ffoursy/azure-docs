@@ -50,7 +50,7 @@ To accomplish the scenario, you need to create a pipeline with the following ite
   - Monitoring  = 2\*0.000005 = $0.00001 [1 Monitoring = $0.25/50000 = 0.000005]
 - Pipeline Orchestration &amp; Execution = **$0.168**
   - Activity Runs = 0.001\*2 = $0.002 [1 run = $1/1000 = 0.001]
-  - Data Movement Activities = $0.166 (Prorated for 10 minutes of execution time. $0.25/hour on Azure Integration Runtime)
+  - Data Movement Activities = $0.041 (Prorated for 10 minutes of execution time. $0.25/hour on Azure Integration Runtime)
 
 ## Copy data and transform with Azure Databricks hourly
 
